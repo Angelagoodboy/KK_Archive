@@ -1,6 +1,6 @@
 # The Periodic Table of Cognition
 [原版博客](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
-
+ 
 [中文版](https://github.com/Angelagoodboy/KK_Archive/blob/main/table_of_cognition_cn.md)
 
 ## Ignorance Hinders Progress 
