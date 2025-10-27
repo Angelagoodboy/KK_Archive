@@ -18,7 +18,7 @@
 
 思维是时序性的集体行动（如物质温度变化），每种模式都需置于前后关联中审视。这种网络现象使得边界难以界定，故每个智能元素都嵌入思维循环，需借他者定义自身。正因如此，每个认知元素的描述都需依托相邻认知模式的语境。
 
-![](https://github.com/Angelagoygoodboy/KK_Archive/blob/main/images/PERIODIC_TABLE_OF_COGNITION.jpg)
+![](https://github.com/Angelagoodboy/KK_Archive/blob/main/images/PERIODIC_TABLE_OF_COGNITION.jpg)
 
 ## 框架昭示多元
 
