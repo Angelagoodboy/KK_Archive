@@ -1,4 +1,6 @@
 # The Periodic Table of Cognition
+To enhance reading fluency, this article has added AI-generated subheadings before each paragraph as content summaries. Please refer to the link below for the complete and unedited original text.
+ 
 [原版博客](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
  
 [中文版](https://github.com/Angelagoodboy/KK_Archive/blob/main/table_of_cognition_cn.md)
