@@ -1,6 +1,7 @@
 # The Periodic Table of Cognition
 
 > **发布时间**：2025年9月
+
 > **主题**：AI
  
 To enhance reading fluency, this article has added AI-generated subheadings before each paragraph as content summaries. Please refer to the link below for the complete and unedited original text.
