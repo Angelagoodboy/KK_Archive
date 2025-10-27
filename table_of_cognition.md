@@ -1,6 +1,9 @@
 # The Periodic Table of Cognition
 To enhance reading fluency, this article has added AI-generated subheadings before each paragraph as content summaries. Please refer to the link below for the complete and unedited original text.
- 
+> **发布时间**：2016年  
+> **英文原版**：*The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future*  
+> **原文链接**：https://kk.org/books/the-inevitable/  
+> **作者**：凯文·凯利 (Kevin Kelly) 
 [原版博客](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
  
 [中文版](https://github.com/Angelagoodboy/KK_Archive/blob/main/table_of_cognition_cn.md)
