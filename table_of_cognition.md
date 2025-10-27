@@ -1,6 +1,6 @@
 # The Periodic Table of Cognition
 
-Ignorance Hinders Progress 
+## Ignorance Hinders Progress 
 I’ve been studying the early history of electricity’s discovery as a map for our current discovery of artificial intelligence. The smartest people alive back then, including Isaac Newton, who may have been the smartest person who ever lived, had confident theories about electricity’s nature that were profoundly wrong. In fact, despite the essential role of electrical charges in the universe, everyone who worked on this fundamental force was profoundly wrong for a long time. All the pioneers of electricity — such as Franklin, Wheatstone, Faraday, and Maxwell — had a few correct ideas of their own (not shared by all) mixed in with notions that mostly turned out to be flat out misguided. Most of the discoveries about what electricity could do happened without the 
 knowledge of how they worked. That ignorance, of course, drastically slowed down the advances in electrical inventions.
 
