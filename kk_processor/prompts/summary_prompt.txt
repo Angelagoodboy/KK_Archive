@@ -1,0 +1,6 @@
+Extract the core summary in exactly {max_words} words or less from this paragraph. 
+Return only the concise summary without any explanations or additional text.
+
+Paragraph: {paragraph}
+
+Summary:
