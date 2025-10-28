@@ -2,5 +2,6 @@
 .DS_Store
 .AppleDouble
 .LSOverride`
+.pyc
 todolist.txt
 todolist.md
