@@ -473,47 +473,6 @@ def generate_markdown_pair(args):
     except Exception as e:
         print(f"❌ 文档生成失败: {e}")
 
-def test_paragraph_splitting():
-    """测试段落分割功能，使用text.txt文件"""
-    print("🧪 测试段落分割功能")
-    print("=" * 50)
-    
-    # 读取text.txt文件内容
-    content = read_file_content("text.txt")
-    
-    if not content:
-        print("❌ text.txt 文件不存在或为空")
-        print("💡 请创建 text.txt 文件或使用以下命令：")
-        print("   echo '测试内容' > text.txt")
-        return None
-    
-    print(f"📁 从 text.txt 读取内容，长度: {len(content)} 字符")
-    print("\n" + "-" * 50 + "\n")
-    
-    # 测试段落分割
-    paragraphs = _split_paragraphs(content)
-    
-    print(f"📊 分割出 {len(paragraphs)} 个段落:")
-    for i, paragraph in enumerate(paragraphs, 1):
-        print(f"\n段落 {i} (长度: {len(paragraph)} 字符):")
-        print(f"  内容: {repr(paragraph[:100])}{'...' if len(paragraph) > 100 else ''}")
-        print(f"  行数: {paragraph.count(chr(10)) + 1}")  # 统计换行数
-    
-    # 测试完整处理流程
-    print("\n" + "=" * 50)
-    print("🧪 测试完整处理流程（添加二级标题）")
-    print("=" * 50)
-    
-    processed_content = _process_content_with_headings(content)
-    print(f"✅ 处理完成，最终内容长度: {len(processed_content)} 字符")
-    
-    # 显示处理后的内容预览
-    print("\n📄 处理后内容预览:")
-    print("-" * 50)
-    print(processed_content[:500] + "..." if len(processed_content) > 500 else processed_content)
-    
-    return paragraphs
-
 def setup_parser():
     """设置命令行参数解析器"""
     parser = argparse.ArgumentParser(
@@ -524,7 +483,6 @@ def setup_parser():
   摘要提取: python main.py summary --text "要摘要的文本"
   文档转换: python main.py convert --title "文档标题" --text "内容"
   生成文档对: python main.py generate --title "标题" --subject "AI" --file input.txt --output docs/
-  测试段落分割: python main.py test-paragraphs
         """
     )
     
@@ -557,9 +515,6 @@ def setup_parser():
     generate_parser.add_argument('--date', '-d', default='', help='发布日期')
     generate_parser.add_argument('--output', '-o', default='.', help='输出目录')
     
-    # 测试命令
-    subparsers.add_parser('test-paragraphs', help='测试段落分割功能')
-    
     return parser
 
 def main():
@@ -583,8 +538,6 @@ def main():
             convert_to_markdown(args)
         elif args.command == 'generate':
             generate_markdown_pair(args)
-        elif args.command == 'test-paragraphs':
-            test_paragraph_splitting()
         else:
             parser.print_help()
             
