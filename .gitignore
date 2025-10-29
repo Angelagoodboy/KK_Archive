@@ -5,3 +5,4 @@
 .pyc
 todolist.txt
 todolist.md
+__pycache__
