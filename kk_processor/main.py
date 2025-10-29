@@ -270,7 +270,9 @@ def _process_content_with_headings(content: str, max_words: int = 4) -> str:
         return content
 
 def _generate_markdown_pair(content: str, title: str, 
-                           original_url: str = "", publish_date: str = "",
+                           subject: str = "通用",
+                           original_url: str = "", 
+                           publish_date: str = "",
                            output_dir: str = "."):
     """
     生成中英文Markdown文件对（内部函数）
@@ -278,6 +280,7 @@ def _generate_markdown_pair(content: str, title: str,
     Args:
         content: 原始文本内容
         title: 文档标题
+        subject: 文档主题（如AI、科技等）
         original_url: 原文URL（可选）
         publish_date: 发布日期（可选）
         output_dir: 输出目录（默认当前目录）
@@ -305,10 +308,13 @@ def _generate_markdown_pair(content: str, title: str,
     cn_filename = f"{_sanitize_filename(title)}_cn.md"
     cn_url = f"https://github.com/Angelagoodboy/KK_Archive/blob/main/{cn_filename}"
     
-    # 生成英文版
-    en_metadata = f"""**Document Information**
+    # 生成英文版元数据（新增subject字段）
+    en_metadata = f"""> **Publish Date**: {publish_date}  
+> **Author**: Kevin Kelly  
+> **Subject**: {subject}  
+
+**Document Information**
 - Original URL: {original_url if original_url else "Not provided"}
-- Publish Date: {publish_date}
 - Chinese Version: [{cn_url}]({cn_url})"""
     
     en_md = f"""# {title}
@@ -325,11 +331,14 @@ def _generate_markdown_pair(content: str, title: str,
     en_filename = f"{_sanitize_filename(title)}.md"
     en_filepath = output_path / en_filename
     
-    # 生成中文版
+    # 生成中文版元数据（新增subject字段）
     cn_title = f"{title}（中文版）"
-    cn_metadata = f"""**文档信息**
+    cn_metadata = f"""> **发布时间**: {publish_date}  
+> **作者**: 凯文·凯利 (Kevin Kelly)  
+> **主题**: {subject}  
+
+**文档信息**
 - 原文地址: {original_url if original_url else "未提供"}
-- 发布日期: {publish_date}
 - 中文版本: [{cn_url}]({cn_url})"""
     
     cn_md = f"""# {cn_title}
@@ -437,6 +446,7 @@ def generate_markdown_pair(args):
     text = get_input_text(args)
     
     print(f"📄 正在生成文档对: {args.title}")
+    print(f"🏷️ 文档主题: {args.subject}")
     if args.output:
         print(f"📁 输出目录: {args.output}")
     
@@ -445,6 +455,7 @@ def generate_markdown_pair(args):
         en_file, cn_file = _generate_markdown_pair(
             content=text,
             title=args.title,
+            subject=args.subject,
             original_url=args.url,
             publish_date=args.date,
             output_dir=args.output
@@ -507,7 +518,7 @@ def setup_parser():
 使用示例:
   摘要提取: python main.py summary --text "要摘要的文本"
   文档转换: python main.py convert --title "文档标题" --text "内容"
-  生成文档对: python main.py generate --title "标题" --file input.txt --output docs/
+  生成文档对: python main.py generate --title "标题" --subject "AI" --file input.txt --output docs/
   测试段落分割: python main.py test-paragraphs
         """
     )
@@ -533,9 +544,10 @@ def setup_parser():
     convert_parser.add_argument('--date', '-d', default='', help='发布日期')
     convert_parser.add_argument('--output', '-o', help='输出目录')
     
-    # generate 命令
+    # generate 命令（新增subject参数）
     generate_parser = subparsers.add_parser('generate', help='生成中英文文档对', parents=[input_group])
     generate_parser.add_argument('--title', required=True, help='文档标题')
+    generate_parser.add_argument('--subject', '-s', default='通用', help='文档主题（如AI、科技等）')
     generate_parser.add_argument('--url', '-u', default='', help='原文URL')
     generate_parser.add_argument('--date', '-d', default='', help='发布日期')
     generate_parser.add_argument('--output', '-o', default='.', help='输出目录')
