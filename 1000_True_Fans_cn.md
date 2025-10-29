@@ -2,11 +2,11 @@
 
 > **发布时间**: 2008-March-04  
 > **作者**: 凯文·凯利 (Kevin Kelly)  
-> **主题**: “内容创作”  
+> **主题**: 内容创作  
 
 **文档信息**
 - 原文地址: https://kk.org/thetechnium/1000-true-fans/
-- 中文版本: [https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans_cn.md](https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans_cn.md)
+- 英文版本: [https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans.md](https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans.md)
 
 ## 1,000 True Fans
 
@@ -64,11 +64,11 @@ Now here’s the thing; the big corporations, the intermediates, the commercial 
 
 One of the many new innovations serving the true fan creator is crowdfunding. Having your fans finance your next product for them is genius. Win-win all around. There are about 2,000 different crowdfunding platforms worldwide, many of them specializing in specific fields: raising money for science experiments, for bands, or documentaries. Each has its own requirements and a different funding model, in addition to specialized interests. Some platforms require “all or nothing” funding goals, others permit partial funding, some raise money for completed projects, some like Patreon, fund ongoing projects. Patreon supporters might fund a monthly magazine, or a video series, or an artist’s salary. The most famous and largest crowdfunder is Kickstarter, which has raised $2.5 billion for more than 100,000 projects. The average number of supporters for a successful Kickstarter project is 241 funders — far less than a thousand. That means If you have 1,000 true fans you can do a crowdfunding campaign, because by definition a true fan will become a Kickstarter funder. (Although success of your campaign is dependent on what you ask of your fans).
 
-## Fan management is demanding
+## Fan management is challenging
 
 The truth is that cultivating a thousand true fans is time consuming, sometimes nerve racking, and not for everyone. Done well (and why not do it well?) it can become another full-time job. At best it will be a consuming and challenging part-time task that requires ongoing skills. There are many creators who don’t want to deal with fans, and honestly should not. They should just paint, or sew, or make music, and hire someone else to deal with their superfans. If that is you and you add someone to deal with fans, a helper will skew your formula, increasing the number of fans you need, but that might be the best mix. If you go that far, then why not “subcontract” out dealing with fans to the middle people — the labels and studios and publishers and retailers? If they work for you, fine, but remember, in most cases they would be even worse at this than you would.
 
-## Multiple fan engagement strategies
+## Multiple fan engagement methods
 
 The mathematics of 1,000 true fans is not a binary choice. You don’t have to go this route to the exclusion of another. Many creators, including myself, will use direct relations with super fans in addition to mainstream intermediaries. I have been published by several big-time New York publishers. I have self-published. And I have used Kickstarter to publish to my true fans. I chose each format depending on the content and my aim. But in every case, cultivating my true fans enriches the route I choose.
 
@@ -76,7 +76,7 @@ The mathematics of 1,000 true fans is not a binary choice. You don’t have to g
 
 The takeaway: 1,000 true fans is an alternative path to success other than stardom. Instead of trying to reach the narrow and unlikely peaks of platinum bestseller hits, blockbusters, and celebrity status, you can aim for direct connection with a thousand true fans. On your way, no matter how many fans you actually succeed in gaining, you’ll be surrounded not by faddish infatuation, but by genuine and true appreciation. It’s a much saner destiny to hope for. And you are much more likely to actually arrive there.
 
-## Essay precedes crowdfunding platforms
+## Original essay's context
 
 The original 2008 essay follows. It was written before the advent of Kickstarter, Indiegogo and other crowdfunding sites, and includes more the idea’s history. — KK
 
@@ -116,7 +116,7 @@ To raise your sales out of the flatline of the long tail you need to connect wit
 
 Assume conservatively that your True Fans will each spend one day’s wages per year in support of what you do. That “one-day-wage” is an average, because of course your truest fans will spend a lot more than that.  Let’s peg that per diem each True Fan spends at $100 per year. If you have 1,000 fans that sums up to $100,000 per year, which minus some modest expenses, is a living for most folks.
 
-## True fans are rewarding
+## True fanship is doable
 
 One thousand is a feasible number. You could count to 1,000. If you added one fan a day, it would take only three years. True Fanship is doable. Pleasing a True Fan is pleasurable, and invigorating. It rewards the artist to remain true, to focus on the unique aspects of their work, the qualities that True Fans appreciate.
 
@@ -136,11 +136,11 @@ This small circle of diehard fans, which can provide you with a living, is surro
 
 But the point of this strategy is to say that you don’t need a hit to survive.  You don’t need to aim for the short head of best-sellerdom to escape the long tail. There is a place in the middle, that is not very far away from the tail, where you can at least make a living. That mid-way haven is called 1,000 True Fans. It is an alternate destination for an artist to aim for.
 
-## Direct connection with fans
+## True Fans alternative path
 
 Young artists starting out in this digitally mediated world have another path other than stardom, a path made possible by the very technology that creates the long tail. Instead of trying to reach the narrow and unlikely peaks of platinum hits, bestseller blockbusters, and celebrity status, they can aim for direct connection with 1,000 True Fans. It’s a much saner destination to hope for. You make a living instead of a fortune. You are surrounded not by fad and fashionable infatuation, but by True Fans. And you are much more likely to actually arrive there.
 
-## True Fans scale linearly
+## Fans grow proportionally
 
 A few caveats. This formula – one thousand direct True Fans —  is crafted for one person, the solo artist. What happens in a duet, or quartet, or movie crew? Obviously, you’ll need more fans. But the additional fans you’ll need are in direct geometric proportion to the increase of your creative group. In other words, if you increase your group size by 33%, you need add only 33% more fans. This linear growth is in contrast to the exponential growth by which many things in the digital domain inflate. I would not be surprised to find that the value of your True Fans network follows the standard network effects rule, and increases as the square of the number of Fans. As your True Fans connect with each other, they will more readily increase their average spending on your works. So while increasing the numbers of artists involved in creation increases the number of True Fans needed, the increase does not explode, but rises gently and in proportion.
 
@@ -170,7 +170,7 @@ In 1999 John Kelsey and Bruce Schneier published a model for this in First Monda
 
 Using the logic of a street performer, the author goes directly to the readers before the book is published; perhaps even before the book is written. The author bypasses the publisher and makes a public statement on the order of: “When I get $100,000 in donations, I will release the next novel in this series.”
 
-## Author funds book chapters
+## Author funds book publicly
 
 Readers can go to the author’s Web site, see how much money has already been donated, and donate money to the cause of getting his novel out. Note that the author doesn’t care who pays to get the next chapter out; nor does he care how many people read the book that didn’t pay for it. He just cares that his $100,000 pot gets filled. When it does, he publishes the next book. In this case “publish” simply means “make available,” not “bind and distribute through bookstores.” The book is made available, free of charge, to everyone: those who paid for it and those who did not.
 
@@ -178,7 +178,7 @@ Readers can go to the author’s Web site, see how much money has already been d
 
 In 2004 author Lawrence Watt-Evans used this model to publish his newest novel. He asked his True Fans to collectively pay $100 per month. When he got $100 he posted the next chapter of the novel. The entire book was published online for his True Fans, and then later in paper for all his fans. He is now writing a second novel this way. He gets by on an estimated 200 True Fans because he also publishes in the traditional manner — with advances from a publisher supported by thousands of Lesser Fans.  Other authors who use fans to directly support their work are Diane Duane, Sharon Lee and Steve Miller, and Don Sakers. Game designer Greg Stolze employed a similar True Fan model to launch two pre-financed games. Fifty of his True Fans contributed seed money for his development costs.
 
-## True Fans boost artists
+## True fans boost artists
 
 The genius of the True Fan model is that the fans are able to move an artist away from the edges of the long tail to a degree larger than their numbers indicate. They can do this in three ways: by purchasing more per person, by spending directly so the creator keeps more per sale, and by enabling new models of support.
 
@@ -190,7 +190,7 @@ Fundable
 
 Here’s an example from Fundable’s site;
 
-## Amelia crowdfunded album successfully
+## Amelia funded CD successfully
 
 Amelia, a twenty-year-old classical soprano singer, pre-sold her first CD before entering a recording studio. “If I get $400 in pre-orders, I will be able to afford the rest [of the studio costs],” she told potential contributors. Fundable’s all-or-nothing model ensured that none of her customers would lose money if she fell short of her goal. Amelia sold over $940 in albums.
 
