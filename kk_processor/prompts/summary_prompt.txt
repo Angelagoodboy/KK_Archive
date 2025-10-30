@@ -1,6 +1,5 @@
-Extract the core summary in exactly {max_words} words or less from this paragraph. 
-Return only the concise summary without any explanations or additional text.
+Please generate a concise summary for the following paragraph using no more than {max_words} words:
 
-Paragraph: {paragraph}
+{paragraph}
 
 Summary:
