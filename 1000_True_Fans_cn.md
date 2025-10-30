@@ -1,224 +1,220 @@
-# 1000 True Fans（中文版）
+# 1000名铁杆粉丝
 
-> **发布时间**: 2008-March-04  
-> **作者**: 凯文·凯利 (Kevin Kelly)  
-> **主题**: 内容创作  
+> **发布日期**: 2008-03-04  
+> **作者**: 凯文·凯利  
+> **主题**: 商业  
 
 **文档信息**
-- 原文地址: https://kk.org/thetechnium/1000-true-fans/
-- 英文版本: [https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans.md](https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans.md)
+- 原文链接: https://kk.org/thetechnium/1000-true-fans/
+- 中文版本: [https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans_cn.md](https://github.com/Angelagoodboy/KK_Archive/blob/main/1000_True_Fans_cn.md)
 
-## 1,000 True Fans
+## 更新的1000名粉丝概念
 
-This is an edited, updated version of an essay I wrote in 2008 when this now popular idea was embryonic and ragged. I recently rewrote it to convey the core ideas, minus out-of-date details. This revisited essay appears in Tim Ferriss’ new book, Tools of Titans. I believe the 1,000 True Fans concept will be useful to anyone making things, or making things happen. If you still want to read the much longer original 2008 essay, you can get it after the end of this version. — KK
+这是我在2008年所写文章的修订更新版，当时这个如今流行的概念尚处于萌芽和粗糙阶段。我最近重写了它，以传达核心思想，同时剔除过时的细节。这篇重新审视的文章收录在蒂姆·费里斯的新书《巨人的工具》中。我相信1000名铁杆粉丝的概念对任何创造事物或促成事物发生的人都会有用。如果你仍然想阅读2008年那篇更长的原文，可以在这个版本结束后找到它。——KK
 
-## Few true fans
+## 只需少量铁杆粉丝
 
-To be a successful creator you don’t need millions. You don’t need millions of dollars or millions of customers, millions of clients or millions of fans. To make a living as a craftsperson, photographer, musician, designer, author, animator, app maker, entrepreneur, or inventor you need only thousands of true fans.
+要成为一名成功的创作者，你不需要数百万。你不需要数百万美元或数百万客户、数百万客户或数百万粉丝。作为一名手工艺者、摄影师、音乐家、设计师、作家、动画师、应用程序开发者、企业家或发明家谋生，你只需要数千名铁杆粉丝。
 
-## True fans support artists
+## 忠诚客户的奉献
 
-A true fan is defined as a fan that will buy anything you produce. These diehard fans will drive 200 miles to see you sing; they will buy the hardback and paperback and audible versions of your book; they will purchase your next figurine sight unseen; they will pay for the “best-of” DVD version of your free youtube channel; they will come to your chef’s table once a month. If you have roughly a thousand of true fans like this (also known as super fans), you can make a living — if you are content to make a living but not a fortune.
+铁杆粉丝被定义为会购买你生产的任何东西的粉丝。这些死忠粉丝会驱车200英里听你唱歌；他们会购买你书籍的精装版、平装版和有声版；他们会不看实物就购买你的下一个手办；他们会为你免费的YouTube频道支付“精选”DVD版费用；他们会每月光顾你的主厨餐桌。如果你有大约一千名这样的铁杆粉丝（也称为超级粉丝），你就可以谋生——前提是你满足于谋生而非发财。
 
-## Earn from existing fans
+## 从现有粉丝中获利
 
-Here’s how the math works. You need to meet two criteria. First, you have to create enough each year that you can earn, on average, $100 profit from each true fan. That is easier to do in some arts and businesses than others, but it is a good creative challenge in every area because it is always easier and better to give your existing customers more, than it is to find new fans.
+计算方式如下。你需要满足两个条件。首先，你每年必须创造足够多的内容，平均从每个铁杆粉丝那里赚取100美元的利润。在某些艺术和商业领域这比其他领域更容易做到，但在每个领域这都是一个很好的创造性挑战，因为向现有客户提供更多总是比寻找新粉丝更容易、更好。
 
-## Direct fan payments essential
+## 直接粉丝支付
 
-Second, you must have a direct relationship with your fans. That is, they must pay you directly. You get to keep all of their support, unlike the small percent of their fees you might get from a music label, publisher, studio, retailer, or other intermediate. If you keep the full $100 of each true fan, then you need only 1,000 of them to earn $100,000 per year. That’s a living for most folks.
+其次，你必须与你的粉丝保持直接关系。也就是说，他们必须直接向你付款。你可以保留他们所有的支持，这与你可能从唱片公司、出版商、工作室、零售商或其他中间商那里获得他们费用的一小部分不同。如果你保留每个铁杆粉丝的全部100美元，那么你只需要1000名粉丝就能每年赚取10万美元。对大多数人来说，这足以维生。
 
-## Aim for thousand fans
+## 瞄准千名粉丝
 
-A thousand customers is a whole lot more feasible to aim for than a million fans. Millions of paying fans is not a realistic goal to shoot for, especially when you are starting out. But a thousand fans is doable. You might even be able to remember a thousand names. If you added one new true fan per day, it’d only take a few years to gain a thousand.
+瞄准一千名客户比瞄准一百万粉丝要可行得多。数百万付费粉丝不是一个现实的目标，尤其是当你刚起步时。但一千名粉丝是可以实现的。你甚至可能记住一千个名字。如果你每天增加一名新的铁杆粉丝，只需几年时间就能获得一千名。
 
-## True fans vary
+## 灵活的粉丝计算
 
-The number 1,000 is not absolute. Its significance is in its rough order of magnitude — three orders less than a million. The actual number has to be adjusted for each person. If you are able to only earn $50 per year per true fan, then you need 2,000. (Likewise if you can sell $200 per year, you need only 500 true fans.) Or you may need only $75K per year to live on, so you adjust downward. Or if you are a duet, or have a partner, then you need to multiply by 2 to get 2,000 fans. For a team, you need to multiply further. But the good news is that the increase in the size of your true-fan base is geometric and linear in proportion to the size of the team; if you increase the team by 33% you only need to increase your fan base by 33%.
+数字1000并非绝对。其意义在于其大致数量级——比一百万少三个数量级。实际数字必须为每个人进行调整。如果你每年只能从每个铁杆粉丝那里赚取50美元，那么你需要2000名。（同样，如果你每年能卖出200美元，你只需要500名铁杆粉丝。）或者你可能每年只需要7.5万美元来生活，因此你可以向下调整。或者，如果你是二重奏，或者有合作伙伴，那么你需要乘以2才能得到2000名粉丝。对于一个团队，你需要进一步倍增。但好消息是，你的铁杆粉丝群规模的增加与团队规模成几何和线性比例；如果你将团队规模增加33%，你只需要将粉丝群增加33%。
 
-## One day's wages annually
+## 一天的工资
 
-Another way to calculate the support of a true fan, is to aim to get one day’s wages per year from them. Can you excite or please them sufficient to earn one day’s labor? That’s a high bar, but not impossible for 1,000 people world wide.
+计算铁杆粉丝支持的另一种方式，是目标是每年从他们那里获得一天的工资。你能足够激励或取悦他们，以赚取一天的劳动报酬吗？这是一个很高的标准，但对全球1000人来说并非不可能。
 
-## True fans drive income
+## 铁杆粉丝驱动增长
 
-And of course, not every fan will be super. While the support of a thousand true fans may be sufficient for a living, for every single true fan, you might have two or three regular fans. Think of concentric circles with true fans at the center and a wider circle of regular fans around them. These regular fans may buy your creations occasionally, or may have bought only once. But their ordinary purchases expand your total income. Perhaps they bring in an additional 50%. Still, you want to focus on the super fans because the enthusiasm of true fans can increase the patronage of regular fans. True fans not only are the direct source of your income, but also your chief marketing force for the ordinary fans.
+当然，并非每个粉丝都是超级粉丝。虽然一千名铁杆粉丝的支持可能足以维生，但对于每一个铁杆粉丝，你可能有两到三个普通粉丝。想象一下同心圆，铁杆粉丝在中心，周围是更宽的普通粉丝圈。这些普通粉丝可能偶尔购买你的作品，或者可能只购买过一次。但他们普通的购买行为扩大了你的总收入。也许他们带来了额外的50%收入。尽管如此，你仍希望专注于超级粉丝，因为铁杆粉丝的热情可以增加普通粉丝的光顾。铁杆粉丝不仅是你的直接收入来源，也是你面向普通粉丝的主要营销力量。
 
-## Direct creator-customer relationships
+## 直接的创作者-客户关系
 
-Fans, customers, patrons have been around forever. What’s new here? A couple of things. While direct relationship with customers was the default mode in old times, the benefits of modern retailing meant that most creators in the last century did not have direct contact with consumers. Often even the publishers, studios, labels and manufacturers did not have such crucial information as the name of their customers. For instance, despite being in business for hundreds of years no New York book publisher knew the names of their core and dedicated readers. For previous creators these intermediates (and there was often more than one) meant you need much larger audiences to have a success. With the advent of ubiquitous peer-to-peer communication and payment systems — also known as the web today — everyone has access to excellent tools that allow anyone to sell directly to anyone else in the world. So a creator in Bend, Oregon can sell — and deliver — a song to someone in Katmandu, Nepal as easily as a New York record label (maybe even more easily). This new technology permits creators to maintain relationships, so that the customer can become a fan, and so that the creator keeps the total amount of payment, which reduces the number of fans needed.
+粉丝、客户、赞助人自古以来就存在。这里有什么新意？有几件事。虽然与客户的直接关系在旧时代是默认模式，但现代零售的好处意味着上世纪的大多数创作者没有与消费者直接接触。通常甚至连出版商、工作室、唱片公司和制造商都不知道他们客户的姓名这类关键信息。例如，尽管经营了数百年，没有一家纽约图书出版商知道他们核心和忠实读者的名字。对于以前的创作者来说，这些中间商（而且往往不止一个）意味着你需要更大的受众才能成功。随着无处不在的点对点通信和支付系统——也就是今天的网络——的出现，每个人都可以使用优秀的工具，允许任何人直接向世界上的任何其他人销售。因此，俄勒冈州本德市的一位创作者可以像纽约唱片公司一样轻松地（甚至可能更容易）向尼泊尔加德满都的某人销售并交付一首歌曲。这项新技术允许创作者维持关系，使客户可以成为粉丝，并且创作者保留全部支付金额，这减少了所需的粉丝数量。
 
-## Long tail boosts obscurity
+## 长尾提升小众能见度
 
-This new ability for the creator to retain the full price is revolutionary, but a second technological innovation amplifies that power further. A fundamental virtue of a peer-to-peer network (like the web) is that the most obscure node is only one click away from the most popular node. In other words the most obscure under-selling book, song, or idea, is only one click away from the best selling book, song or idea. Early in the rise of the web the large aggregators of content and products, such as eBay, Amazon, Netflix, etc, noticed that the total sales of *all* the lowest selling obscure items would equal or in some cases exceed the sales of the few best selling items. Chris Anderson (my successor at Wired) named this effect “The Long Tail,” for the visually graphed shape of the sales distribution curve: a low nearly interminable line of items selling only a few copies per year that form a long “tail” for the abrupt vertical beast of a few bestsellers. But the area of the tail was as big as the head. With that insight, the aggregators had great incentive to encourage audiences to click on the obscure items. They invented recommendation engines and other algorithms to channel attention to the rare creations in the long tail. Even web search companies like Google, Bing, Baidu found it in their interests to reward searchers with the obscure because they could sell ads in the long tail as well. The result was that the most obscure became less obscure.
+创作者保留全价的新能力是革命性的，但第二项技术创新进一步放大了这种力量。点对点网络（如网络）的一个基本优点是，最不起眼的节点距离最受欢迎的节点仅一次点击之遥。换句话说，最冷门、销量最低的书籍、歌曲或想法，距离最畅销的书籍、歌曲或想法仅一次点击之遥。在网络兴起的早期，内容和产品的大型聚合商，如eBay、Amazon、Netflix等，注意到*所有*最低销量冷门物品的总销售额将等于或在某些情况下超过少数畅销物品的销售额。克里斯·安德森（我在《连线》杂志的继任者）将这种效应命名为“长尾”，因为销售分布曲线的视觉图形形状：一条低矮、几乎无止境的物品线，每年只卖出几份，形成了少数畅销书那突兀垂直巨兽的漫长“尾巴”。但尾巴的面积和头部一样大。有了这种洞察力，聚合商有强烈的动机鼓励受众点击冷门物品。他们发明了推荐引擎和其他算法，将注意力引导到长尾中的稀有创作。甚至像Google、Bing、Baidu这样的网络搜索公司也发现，用冷门内容回报搜索者符合他们的利益，因为他们也可以在长尾中销售广告。结果是最冷门的变得不那么冷门了。
 
-## Internet connects niche interests
+## 互联网连接小众兴趣
 
-If you lived in any of the 2 million small towns on Earth you might be the only one in your town to crave death metal music, or get turned on by whispering, or want a left-handed fishing reel. Before the web you’d never be able to satisfy that desire. You’d be alone in your fascination. But now satisfaction is only one click away. Whatever your interests as a creator are, your 1,000 true fans are one click from you. As far as I can tell there is nothing — no product, no idea, no desire — without a fan base on the internet. Every thing made, or thought of, can interest at least one person in a million — it’s a low bar. Yet if even only one out of million people were interested, that’s potentially 7,000 people on the planet. That means that any 1-in-a-million appeal can find 1,000 true fans. The trick is to practically find those fans, or more accurately, to have them find you.
+如果你居住在地球上200万个小城镇中的任何一个，你可能是镇上唯一一个渴望死亡金属音乐的人，或者对耳语感到兴奋的人，或者想要左手渔线轮的人。在网络出现之前，你永远无法满足这种欲望。你会独自沉浸在你的迷恋中。但现在，满足感仅一次点击之遥。无论你作为创作者的兴趣是什么，你的1000名铁杆粉丝都离你一次点击之遥。据我所知，没有什么是——没有产品，没有想法，没有欲望——在互联网上没有粉丝群的。每一件被制造出来，或被想到的东西，都能引起至少百万分之一的人的兴趣——这是一个很低的标准。然而，即使只有百万分之一的人感兴趣，地球上也有7000人的潜力。这意味着任何百万分之一吸引力的东西都能找到1000名铁杆粉丝。诀窍在于实际找到这些粉丝，或者更准确地说，让他们找到你。
 
-## Creators' advantage over corporations
+## 创作者相对于公司的优势
 
-Now here’s the thing; the big corporations, the intermediates, the commercial producers, are all under-equipped and ill suited to connect with these thousand true fans. They are institutionally unable to find and deliver niche audiences and consumers. That means the long tail is wide open to you, the creator. You’ll have your one-in-a-million true fans to yourself. And the tools for connecting keep getting better, including the recent innovations in social media. It has never been easier to gather 1,000 true fans around a creator, and never easier to keep them near.
+现在关键是：大公司、中间商、商业生产者，都装备不足且不适合与这千名铁杆粉丝建立联系。他们在制度上无法找到并交付利基受众和消费者。这意味着长尾对你，创作者，是敞开的。你将拥有你百万分之一的铁杆粉丝。而且连接的工具不断变得更好，包括社交媒体最近的技术创新。聚集1000名铁杆粉丝围绕一个创作者从未如此容易，保持他们靠近也从未如此容易。
 
-## Crowdfunding benefits creators
+## 众筹惠及创作者
 
-One of the many new innovations serving the true fan creator is crowdfunding. Having your fans finance your next product for them is genius. Win-win all around. There are about 2,000 different crowdfunding platforms worldwide, many of them specializing in specific fields: raising money for science experiments, for bands, or documentaries. Each has its own requirements and a different funding model, in addition to specialized interests. Some platforms require “all or nothing” funding goals, others permit partial funding, some raise money for completed projects, some like Patreon, fund ongoing projects. Patreon supporters might fund a monthly magazine, or a video series, or an artist’s salary. The most famous and largest crowdfunder is Kickstarter, which has raised $2.5 billion for more than 100,000 projects. The average number of supporters for a successful Kickstarter project is 241 funders — far less than a thousand. That means If you have 1,000 true fans you can do a crowdfunding campaign, because by definition a true fan will become a Kickstarter funder. (Although success of your campaign is dependent on what you ask of your fans).
+服务于铁杆粉丝创作者的众多新创新之一是众筹。让你的粉丝为你为他们生产的下一个产品提供资金是天才之举。各方共赢。全球大约有2000个不同的众筹平台，其中许多专门针对特定领域：为科学实验、乐队或纪录片筹集资金。除了专业兴趣外，每个平台都有自己的要求和不同的资助模式。一些平台要求“全有或全无”的融资目标，其他平台允许部分融资，一些为已完成的项目筹集资金，一些像Patreon，资助持续进行的项目。Patreon的支持者可能资助一本月刊，或一个视频系列，或一位艺术家的薪水。最著名和最大的众筹平台是Kickstarter，它已为超过10万个项目筹集了25亿美元。一个成功的Kickstarter项目的平均支持者数量是241名资助者——远少于一千名。这意味着如果你有1000名铁杆粉丝，你可以进行众筹活动，因为根据定义，铁杆粉丝会成为Kickstarter资助者。（尽管你活动的成功取决于你向粉丝要求什么）。
 
-## Fan management is challenging
+## 粉丝需要管理
 
-The truth is that cultivating a thousand true fans is time consuming, sometimes nerve racking, and not for everyone. Done well (and why not do it well?) it can become another full-time job. At best it will be a consuming and challenging part-time task that requires ongoing skills. There are many creators who don’t want to deal with fans, and honestly should not. They should just paint, or sew, or make music, and hire someone else to deal with their superfans. If that is you and you add someone to deal with fans, a helper will skew your formula, increasing the number of fans you need, but that might be the best mix. If you go that far, then why not “subcontract” out dealing with fans to the middle people — the labels and studios and publishers and retailers? If they work for you, fine, but remember, in most cases they would be even worse at this than you would.
+事实是，培养一千名铁杆粉丝是耗时的，有时令人伤神，并且不适合所有人。做得好（为什么不做得好呢？）它可能成为另一份全职工作。往好了说，它将是一项耗费精力且具有挑战性的兼职任务，需要持续的技能。有许多创作者不想与粉丝打交道，而且老实说不应该。他们应该只是画画、缝纫或制作音乐，并雇佣别人来处理他们的超级粉丝。如果那是你，并且你增加一个人来处理粉丝，一个助手会扭曲你的公式，增加你需要的粉丝数量，但这可能是最好的组合。如果你走到那一步，那么为什么不把处理粉丝的事情“分包”给中间人——唱片公司、工作室、出版商和零售商呢？如果他们为你工作，那很好，但请记住，在大多数情况下，他们在这方面甚至比你还差。
 
-## Multiple fan engagement methods
+## 多种创作者策略
 
-The mathematics of 1,000 true fans is not a binary choice. You don’t have to go this route to the exclusion of another. Many creators, including myself, will use direct relations with super fans in addition to mainstream intermediaries. I have been published by several big-time New York publishers. I have self-published. And I have used Kickstarter to publish to my true fans. I chose each format depending on the content and my aim. But in every case, cultivating my true fans enriches the route I choose.
+1000名铁杆粉丝的数学计算不是非此即彼的选择。你不必为了排除另一种方式而选择这条路。许多创作者，包括我自己，除了主流中间商之外，还会使用与超级粉丝的直接关系。我曾被几家纽约大出版商出版过。我自行出版过。我还使用Kickstarter向我的铁杆粉丝出版。我根据内容和目标选择每种形式。但在每一种情况下，培养我的铁杆粉丝都丰富了我选择的道路。
 
-## Thousand true fans
+## 千名铁杆粉丝
 
-The takeaway: 1,000 true fans is an alternative path to success other than stardom. Instead of trying to reach the narrow and unlikely peaks of platinum bestseller hits, blockbusters, and celebrity status, you can aim for direct connection with a thousand true fans. On your way, no matter how many fans you actually succeed in gaining, you’ll be surrounded not by faddish infatuation, but by genuine and true appreciation. It’s a much saner destiny to hope for. And you are much more likely to actually arrive there.
+要点是：1000名铁杆粉丝是通往成功的另一条路径，不同于成为明星。与其试图达到白金畅销热销、大片和名人地位的狭窄且不太可能的高峰，你可以瞄准与一千名铁杆粉丝的直接联系。在这条路上，无论你实际成功获得了多少粉丝，你将被真诚和真正的欣赏所包围，而不是一时的狂热迷恋。这是一个更理智的命运可以期待。而且你更有可能真正到达那里。
 
-## Original essay's context
+## 前众筹起源
 
-The original 2008 essay follows. It was written before the advent of Kickstarter, Indiegogo and other crowdfunding sites, and includes more the idea’s history. — KK
+2008年的原文如下。它写于Kickstarter、Indiegogo和其他众筹网站出现之前，并包含了更多该想法的历史。——KK
 
-## Language translations list
+## 提供多种语言版本
 
-[Translations: Chinese, Danish, French, German, Hebrew, Italian, Japanese, Portuguese, Romanian, Spanish, Turkish]
+[翻译：中文、丹麦语、法语、德语、希伯来语、意大利语、日语、葡萄牙语、罗马尼亚语、西班牙语、土耳其语]
 
-## Consumers benefit most
+## 消费者受益最大
 
-The long tail is famously good news for two classes of people; a few lucky aggregators, such as Amazon and Netflix, and 6 billion consumers. Of those two, I think consumers earn the greater reward from the wealth hidden in infinite niches.
+长尾对两类人来说是出了名的好消息；少数幸运的聚合商，如亚马逊和Netflix，以及60亿消费者。在这两者中，我认为消费者从隐藏在无限利基中的财富中获得更大的回报。
 
-## Long tail hurts creators
+## 创作者面临劣势
 
-But the long tail is a decidedly mixed blessing for creators. Individual artists, producers, inventors and makers are overlooked in the equation. The long tail does not raise the sales of creators much, but it does add massive competition and endless downward pressure on prices. Unless artists become a large aggregator of other artist’s works, the long tail offers no path out of the quiet doldrums of minuscule sales.
+但长尾对创作者来说绝对是喜忧参半。个体艺术家、生产者、发明家和制造者在等式中被忽视。长尾并没有大大提高创作者的销售额，但它确实增加了巨大的竞争和无休止的价格下行压力。除非艺术家成为其他艺术家作品的大型聚合商，否则长尾无法提供摆脱微小销售额的沉寂低迷状态的途径。
 
-Other than aim for a blockbuster hit, what can an artist do to escape the long tail?
+除了瞄准轰动一时的热门作品，艺术家还能做些什么来逃离长尾？
 
-## Find True Fans
+## 1000名铁杆粉丝
 
-One solution is to find 1,000 True Fans. While some artists have discovered this path without calling it that, I think it is worth trying to formalize. The gist of 1,000 True Fans can be stated simply:
+一个解决方案是找到1000名铁杆粉丝。虽然一些艺术家在没有这样称呼的情况下发现了这条道路，但我认为值得尝试将其形式化。1000名铁杆粉丝的要点可以简单陈述为：
 
-## 1,000 True Fans
+## 1000名粉丝支持创作者
 
-A creator, such as an artist, musician, photographer, craftsperson, performer, animator, designer, videomaker, or author – in other words, anyone producing works of art – needs to acquire only 1,000 True Fans to make a living.
+一个创作者，例如艺术家、音乐家、摄影师、手工艺者、表演者、动画师、设计师、视频制作者或作家——换句话说，任何生产艺术作品的人——只需要获得1000名铁杆粉丝就能谋生。
 
-## True fan dedication
+## 忠诚的忠实支持者
 
-A True Fan is defined as someone who will purchase anything and everything you produce. They will drive 200 miles to see you sing. They will buy the super deluxe re-issued hi-res box set of your stuff even though they have the low-res version. They have a Google Alert set for your name. They bookmark the eBay page where your out-of-print editions show up. They come to your openings. They have you sign their copies. They buy the t-shirt, and the mug, and the hat. They can’t wait till you issue your next work. They are true fans.
+铁杆粉丝被定义为会购买你生产的任何东西和一切的人。他们会驱车200英里听你唱歌。他们会购买你作品的超级豪华重新发行的高分辨率盒装套装，即使他们已经有了低分辨率版本。他们为你的名字设置了Google快讯。他们将你绝版作品出现的eBay页面加入书签。他们参加你的开幕式。他们让你在他们的副本上签名。他们购买T恤、杯子和帽子。他们迫不及待地等待你发布下一个作品。他们是铁杆粉丝。
 
-Truefans-1
+铁杆粉丝-1
 
-## Connect with True Fans
+## 与铁杆粉丝联系
 
-To raise your sales out of the flatline of the long tail you need to connect with your True Fans directly.  Another way to state this is, you need to convert a thousand Lesser Fans into a thousand True Fans.
+要将你的销售额从长尾的平线中提升，你需要直接与你的铁杆粉丝联系。另一种表述方式是，你需要将一千名普通粉丝转化为一千名铁杆粉丝。
 
-## True Fans support artists
+## 铁杆粉丝的财务支持
 
-Assume conservatively that your True Fans will each spend one day’s wages per year in support of what you do. That “one-day-wage” is an average, because of course your truest fans will spend a lot more than that.  Let’s peg that per diem each True Fan spends at $100 per year. If you have 1,000 fans that sums up to $100,000 per year, which minus some modest expenses, is a living for most folks.
+保守假设你的铁杆粉丝每年会花费一天的工资来支持你所做的事情。那个“一天的工资”是一个平均值，因为当然你最铁杆的粉丝会花费比那多得多。让我们将每个铁杆粉丝花费的每日金额定为每年100美元。如果你有1000名粉丝，那么每年总计10万美元，减去一些适度的开支，对大多数人来说足以维生。
 
-## True fanship is doable
+## 铁杆粉丝可实现
 
-One thousand is a feasible number. You could count to 1,000. If you added one fan a day, it would take only three years. True Fanship is doable. Pleasing a True Fan is pleasurable, and invigorating. It rewards the artist to remain true, to focus on the unique aspects of their work, the qualities that True Fans appreciate.
+一千是一个可行的数字。你可以数到1000。如果你每天增加一个粉丝，只需要三年时间。铁杆粉丝是可行的。取悦铁杆粉丝是愉快的，并且令人振奋。它奖励艺术家保持真实，专注于他们作品的独特方面，铁杆粉丝所欣赏的品质。
 
-## Maintain direct fan contact
+## 直接粉丝支持
 
-The key challenge is that you have to maintain direct contact with your 1,000 True Fans. They are giving you their support directly. Maybe they come to your house concerts, or they are buying your DVDs from your website, or they order your prints from Pictopia. As much as possible you retain the full amount of their support. You also benefit from the direct feedback and love.
+关键挑战在于你必须与你的1000名铁杆粉丝保持直接联系。他们直接给予你支持。也许他们来参加你的家庭音乐会，或者他们从你的网站购买你的DVD，或者他们从Pictopia订购你的印刷品。尽可能保留他们支持的全部金额。你还受益于直接的反馈和爱。
 
-## Digital tools enable creation
+## 数字工具赋能小规模
 
-The technologies of connection and small-time manufacturing make this circle possible. Blogs and RSS feeds trickle out news, and upcoming appearances or new works. Web sites host galleries of your past work, archives of biographical information, and catalogs of paraphernalia. Diskmakers, Blurb, rapid prototyping shops, Myspace, Facebook, and the entire digital domain all conspire to make duplication and dissemination in small quantities fast, cheap and easy. You don’t need a million fans to justify producing something new. A mere one thousand is sufficient.
+连接和小规模制造的技术使这个圈子成为可能。博客和RSS源滴灌式发布新闻、即将到来的露面或新作品。网站托管你过去作品的画廊、传记信息档案和周边产品目录。Diskmakers、Blurb、快速原型制作店、Myspace、Facebook以及整个数字领域都共同使小批量的复制和传播变得快速、廉价和容易。你不需要一百万粉丝来证明生产新东西是合理的。仅仅一千就足够了。
 
-## True fans nurture others
+## 粉丝增长策略
 
-This small circle of diehard fans, which can provide you with a living, is surrounded by concentric circles of Lesser Fans. These folks will not purchase everything you do, and may not seek out direct contact, but they will buy much of what you produce. The processes you develop to feed your True Fans will also nurture Lesser Fans. As you acquire new True Fans, you can also add many more Lesser Fans. If you keep going, you may indeed end up with millions of fans and reach a hit. I don’t know of any creator who is not interested in having a million fans.
+这个可以提供你生计的死忠粉丝小圈子，被普通粉丝的同心圆所包围。这些人不会购买你做的所有东西，也可能不会寻求直接接触，但他们会购买你生产的许多东西。你为供养铁杆粉丝而开发的过程也将培养普通粉丝。当你获得新的铁杆粉丝时，你也可以增加更多的普通粉丝。如果你继续下去，你确实可能最终拥有数百万粉丝并达到热门。我不知道有哪个创作者对拥有百万粉丝不感兴趣。
 
-## 1,000 True Fans
+## 1000名铁杆粉丝
 
-But the point of this strategy is to say that you don’t need a hit to survive.  You don’t need to aim for the short head of best-sellerdom to escape the long tail. There is a place in the middle, that is not very far away from the tail, where you can at least make a living. That mid-way haven is called 1,000 True Fans. It is an alternate destination for an artist to aim for.
+但这个策略的关键在于说明你不需要热门也能生存。你不需要瞄准畅销榜的短头来逃离长尾。在中间有一个位置，离尾巴不远，你至少可以在那里谋生。那个中途的避风港被称为1000名铁杆粉丝。它是艺术家可以瞄准的另一个目的地。
 
-## True Fans alternative path
+## 1000名铁杆粉丝
 
-Young artists starting out in this digitally mediated world have another path other than stardom, a path made possible by the very technology that creates the long tail. Instead of trying to reach the narrow and unlikely peaks of platinum hits, bestseller blockbusters, and celebrity status, they can aim for direct connection with 1,000 True Fans. It’s a much saner destination to hope for. You make a living instead of a fortune. You are surrounded not by fad and fashionable infatuation, but by True Fans. And you are much more likely to actually arrive there.
+在这个数字媒介世界中起步的年轻艺术家，除了成为明星之外，还有另一条道路，一条由创造长尾的技术本身所开辟的道路。与其试图达到白金热门、畅销大片和名人地位的狭窄且不太可能的高峰，他们可以瞄准与1000名铁杆粉丝的直接联系。这是一个更理智的命运可以期待。你谋生而不是发财。你被铁杆粉丝包围，而不是一时的狂热和时尚的迷恋。而且你更有可能真正到达那里。
 
-## Fans grow proportionally
+## 团队粉丝规模调整
 
-A few caveats. This formula – one thousand direct True Fans —  is crafted for one person, the solo artist. What happens in a duet, or quartet, or movie crew? Obviously, you’ll need more fans. But the additional fans you’ll need are in direct geometric proportion to the increase of your creative group. In other words, if you increase your group size by 33%, you need add only 33% more fans. This linear growth is in contrast to the exponential growth by which many things in the digital domain inflate. I would not be surprised to find that the value of your True Fans network follows the standard network effects rule, and increases as the square of the number of Fans. As your True Fans connect with each other, they will more readily increase their average spending on your works. So while increasing the numbers of artists involved in creation increases the number of True Fans needed, the increase does not explode, but rises gently and in proportion.
+几点注意事项。这个公式——一千名直接铁杆粉丝——是为一个人，即独立艺术家量身定制的。二重奏、四重奏或电影剧组会发生什么？显然，你需要更多粉丝。但你需要的额外粉丝与你创意团队的增长成直接的几何比例。换句话说，如果你将团队规模增加33%，你只需要增加33%的粉丝。这种线性增长与数字领域中许多事物呈指数级增长形成对比。如果发现你的铁杆粉丝网络的价值遵循标准的网络效应规则，并随着粉丝数量的平方而增加，我不会感到惊讶。当你的铁杆粉丝彼此联系时，他们会更容易增加在你作品上的平均支出。因此，虽然增加参与创作的艺术家数量会增加所需的铁杆粉丝数量，但这种增加不会爆炸式增长，而是温和且成比例地上升。
 
-## Artists need mediators
+## 艺术家需要中介
 
-A more important caution: Not every artist is cut out, or willing, to be a nurturer of fans. Many musicians just want to play music, or photographers just want to shoot, or painters paint, and they temperamentally don’t want to deal with fans, especially True Fans. For these creatives, they need a mediator, a manager, a handler, an agent, a galleryist — someone to manage their fans.  Nonetheless, they can still aim for the same middle destination of 1,000 True Fans. They are just working in a duet.
+一个更重要的提醒：并非每个艺术家都适合或愿意成为粉丝的培养者。许多音乐家只想演奏音乐，或者摄影师只想拍摄，或者画家只想画画，他们在性情上不想与粉丝打交道，尤其是铁杆粉丝。对于这些创意者，他们需要一个中介、一个经理、一个处理者、一个代理人、一个画廊主—— someone to manage their fans. 尽管如此，他们仍然可以瞄准1000名铁杆粉丝的相同中间目的地。他们只是以二重奏的形式工作。
 
-## Direct fans best
+## 直接粉丝最重要
 
-Third distinction. Direct fans are best. The number of True Fans needed to make a living indirectly inflates fast, but not infinitely. Take blogging as an example. Because fan support for a blogger routes through advertising clicks (except in the occasional tip-jar), more fans are needed for a blogger to make a living. But while this moves the destination towards the left on the long tail curve, it is still far short of blockbuster territory. Same is true in book publishing. When you have corporations involved in taking the majority of the revenue for your work, then it takes many times more True Fans to support you. To the degree an author cultivates direct contact with his/her fans, the smaller the number needed.
+第三个区别。直接粉丝是最好的。间接谋生所需的铁杆粉丝数量迅速膨胀，但并非无限膨胀。以博客为例。因为博客作者的粉丝支持通过广告点击（除了偶尔的小费罐），博客作者需要更多粉丝才能谋生。但是，虽然这使目的地在长尾曲线上向左移动，但它仍然远未达到轰动一时的领域。图书出版也是如此。当有公司参与拿走你作品的大部分收入时，那么需要多倍的铁杆粉丝来支持你。作者培养与粉丝直接接触的程度越高，所需的粉丝数量就越少。
 
-## True fans vary
+## 铁杆粉丝数量各异
 
-Lastly, the actual number may vary depending on the media. Maybe it is 500 True Fans for a painter and 5,000 True Fans for a videomaker. The numbers must surely vary around the world. But in fact the actual number is not critical, because it cannot be determined except by attempting it. Once you are in that mode, the actual number will become evident. That will be the True Fan number that works for you. My formula may be off by an order of magnitude, but even so, its far less than a million.
+最后，实际数字可能因媒介而异。也许画家需要500名铁杆粉丝，而视频制作者需要5000名铁杆粉丝。这些数字在世界各地肯定有所不同。但实际上，具体数字并不关键，因为除了尝试之外无法确定。一旦你进入那种模式，实际数字就会变得明显。那将是对你有效的铁杆粉丝数量。我的公式可能偏差一个数量级，但即便如此，它也远少于一百万。
 
-## True Fan number theory
+## 微名人粉丝理论
 
-I’ve been scouring the literature for any references to the True Fan number. Suck.com co-founder Carl Steadman had theory about microcelebrities. By his count, a microcelebrity was someone famous to 1,500 people. So those fifteen hundred would rave about you. As quoted by Danny O’Brien, “One person in every town in Britain likes your dumb online comic. That’s enough to keep you in beers (or T-shirt sales) all year.”
+我一直在文献中搜寻任何提及铁杆粉丝数量的参考资料。Suck.com的联合创始人卡尔·斯特德曼有一个关于微名人的理论。据他计算，一个微名人是在1500人中有名的人。所以那一千五百人会对你赞不绝口。正如丹尼·奥布莱恩所引用的，“英国每个城镇都有一个人喜欢你那愚蠢的在线漫画。这足以让你全年都有啤酒（或T恤销售收入）。”
 
-Others call this microcelebrity support micro-patronage, or distributed patronage.
+其他人称这种微名人支持为微赞助，或分布式赞助。
 
-## Street Performer Protocol model
+## 街头艺人协议
 
-In 1999 John Kelsey and Bruce Schneier published a model for this in First Monday, an online journal. They called it the Street Performer Protocol.
+1999年，约翰·凯尔西和布鲁斯·施奈尔在在线期刊《First Monday》上发表了这方面的模型。他们称之为街头艺人协议。
 
-## Author bypasses publisher directly
+## 众筹图书发布
 
-Using the logic of a street performer, the author goes directly to the readers before the book is published; perhaps even before the book is written. The author bypasses the publisher and makes a public statement on the order of: “When I get $100,000 in donations, I will release the next novel in this series.”
+运用街头艺人的逻辑，作者在图书出版前直接去找读者；甚至可能在图书写成之前。作者绕过出版商，并发表一个公开声明，大意是：“当我获得10万美元的捐款时，我将发布这个系列的下部小说。”
 
-## Author funds book publicly
+## 众筹图书出版
 
-Readers can go to the author’s Web site, see how much money has already been donated, and donate money to the cause of getting his novel out. Note that the author doesn’t care who pays to get the next chapter out; nor does he care how many people read the book that didn’t pay for it. He just cares that his $100,000 pot gets filled. When it does, he publishes the next book. In this case “publish” simply means “make available,” not “bind and distribute through bookstores.” The book is made available, free of charge, to everyone: those who paid for it and those who did not.
+读者可以访问作者的网站，查看已经捐赠了多少钱，并捐款以促成他的小说出版。请注意，作者并不关心谁付费以获得下一章；他也不关心有多少人阅读了没有付费的书。他只关心他那10万美元的资金池被填满。当它被填满时，他出版下一本书。在这种情况下，“出版”仅仅意味着“提供”，而不是“通过书店装订和分发”。这本书免费提供给所有人：那些付钱的人和那些没有付钱的人。
 
-## True Fans support creators
+## 铁杆粉丝出版
 
-In 2004 author Lawrence Watt-Evans used this model to publish his newest novel. He asked his True Fans to collectively pay $100 per month. When he got $100 he posted the next chapter of the novel. The entire book was published online for his True Fans, and then later in paper for all his fans. He is now writing a second novel this way. He gets by on an estimated 200 True Fans because he also publishes in the traditional manner — with advances from a publisher supported by thousands of Lesser Fans.  Other authors who use fans to directly support their work are Diane Duane, Sharon Lee and Steve Miller, and Don Sakers. Game designer Greg Stolze employed a similar True Fan model to launch two pre-financed games. Fifty of his True Fans contributed seed money for his development costs.
+2004年，作家劳伦斯·瓦特-埃文斯使用这种模式出版了他的最新小说。他要求他的铁杆粉丝集体每月支付100美元。当他收到100美元时，他发布了小说的下一章。整本书在线为他的铁杆粉丝出版，然后后来以纸质形式为他所有的粉丝出版。他现在正在以这种方式写第二部小说。他靠大约200名铁杆粉丝维持生计，因为他同时也以传统方式出版——获得来自由数千名普通粉丝支持的出版商的预付款。其他使用粉丝直接支持他们工作的作者有黛安·杜安、莎伦·李和史蒂夫·米勒，以及唐·萨克斯。游戏设计师格雷格·斯托尔泽采用了类似的铁杆粉丝模型来推出两款预融资游戏。他的五十名铁杆粉丝为他的开发成本提供了种子资金。
 
-## True fans boost artists
+## 铁杆粉丝的放大影响
 
-The genius of the True Fan model is that the fans are able to move an artist away from the edges of the long tail to a degree larger than their numbers indicate. They can do this in three ways: by purchasing more per person, by spending directly so the creator keeps more per sale, and by enabling new models of support.
+铁杆粉丝模式的天才之处在于，粉丝能够将艺术家从长尾的边缘移开，其程度大于他们数量所显示的。他们可以通过三种方式做到这一点：通过每人购买更多，通过直接消费使创作者每次销售保留更多，以及通过启用新的支持模式。
 
-## Fan-funded startup support
+## 众筹模式演变
 
-New models of support include micro-patronage. Another model is pre-financing the startup costs. Digital technology enables this fan support to take many shapes. Fundable is a web-based enterprise which allows anyone to raise a fixed amount of money for a project, while reassuring the backers the project will happen. Fundable withholds the money until the full amount is collected. They return the money if the minimum is not reached.
+新的支持模式包括微赞助。另一种模式是预先融资启动成本。数字技术使这种粉丝支持能够以多种形式出现。Fundable是一个基于网络的企业，允许任何人为一个项目筹集固定金额的资金，同时向支持者保证项目将会进行。Fundable在全部金额收集完成之前扣留资金。如果未达到最低目标，他们会退还资金。
 
 Fundable
 
-Here’s an example from Fundable’s site;
+以下是来自Fundable网站的一个例子；
 
-## Amelia funded CD successfully
+## 女高音成功的预售
 
-Amelia, a twenty-year-old classical soprano singer, pre-sold her first CD before entering a recording studio. “If I get $400 in pre-orders, I will be able to afford the rest [of the studio costs],” she told potential contributors. Fundable’s all-or-nothing model ensured that none of her customers would lose money if she fell short of her goal. Amelia sold over $940 in albums.
+阿米莉亚，一位二十岁的古典女高音歌手，在进入录音室之前预售了她的第一张CD。“如果我获得400美元的预购订单，我将能够负担得起其余[录音室费用]，”她告诉潜在贡献者。Fundable的全有或全无模式确保，如果她未能达到目标，她的客户都不会损失金钱。阿米莉亚售出了超过940美元的专辑。
 
-## True Fans support artists
+## 艺术家依靠粉丝茁壮成长
 
-A thousand dollars won’t keep even a starving artist alive long, but with serious attention, a dedicated artist can do better with their True Fans. Jill Sobule, a musician who has nurtured a sizable following over many years of touring and recording, is doing well relying on her True Fans. Recently she decided to go to her fans to finance the $75,000 professional recording fees she needed for her next album. She has raised close to $50,000 so far. By directly supporting her via their patronage, the fans gain intimacy with their artist. According to the Associated Press:
+一千美元甚至不能让一个饥饿的艺术家维持很久，但通过认真关注，一个 dedicated artist 可以用他们的铁杆粉丝做得更好。吉尔·索布尔，一位通过多年巡演和录音培养了相当大追随者的音乐家，依靠她的铁杆粉丝做得很好。最近，她决定去找她的粉丝，为她下一张专辑所需的7.5万美元专业录音费用融资。到目前为止，她已经筹集了近5万美元。通过他们的赞助直接支持她，粉丝们获得了与他们的艺术家的亲密关系。据美联社报道：
 
-## Pledge rewards for contributions
+## 认捐奖励等级
 
-Contributors can choose a level of pledges ranging from the $10 “unpolished rock,” which earns them a free digital download of her disc when it’s made, to the $10,000 “weapons-grade plutonium level,” where she promises “you get to come and sing on my CD. Don’t worry if you can’t sing – we can fix that on our end.” For a $5,000 contribution, Sobule said she’ll perform a concert in the donor’s house. The lower levels are more popular, where donors can earn things like an advanced copy of the CD, a mention in the liner notes and a T-shirt identifying them as a “junior executive producer” of the CD.
+贡献者可以选择不同级别的认捐，从10美元的“未打磨的石头”级别（这使他们可以在唱片制作完成后免费数字下载），到10,000美元的“武器级钚”级别，她承诺“你可以来在我的CD上唱歌。别担心你不会唱歌——我们可以在我们这边解决这个问题。”对于5000美元的贡献，索布尔说她将在捐赠者的家中举行一场音乐会。较低的级别更受欢迎，捐赠者可以获得诸如CD的提前副本、内页注释中的提及以及标识他们为CD“初级执行制作人”的T恤等物品。
 
-## Artists earn little
+## 艺术家面临贫困
 
-The usual alternative to making a living based on True Fans is poverty.  A study as recently as 1995 showed that the accepted price of being an artist was large. Sociologist Ruth Towse surveyed artists in Britian and determined that on average they earned below poverty subsistence levels.
+基于铁杆粉丝谋生的通常替代方案是贫困。最近在1995年的一项研究表明，成为艺术家的公认代价是巨大的。社会学家露丝·托斯调查了英国的艺术家，并确定他们的平均收入低于贫困生存水平。
 
-## Middle-class creative sustainability
+## 中产阶级创意者
 
-I am suggesting there is a home for creatives in between poverty and stardom. Somewhere lower than stratospheric bestsellerdom, but higher than the obscurity of the long tail. I don’t know the actual true number, but I think a dedicated artist could cultivate 1,000 True Fans, and by their direct support using new technology, make an honest living.  I’d love to hear from anyone who might have settled on such a path.
+我建议创意者在贫困和明星地位之间有一个家。 somewhere lower than stratospheric bestsellerdom, but higher than the obscurity of the long tail. 我不知道实际的真实数字，但我认为一个 dedicated artist 可以培养1000名铁杆粉丝，并通过他们使用新技术提供的直接支持，诚实地谋生。我很想听听任何可能已经走上这条路的人的意见。
 
-Updates:
+更新：
 
-## True Fans financial reality
+## 艺术家的财务披露
 
-One artist who partially relies on True Fans responds with a disclosure of his finances:
-The Reality of Depending on True Fans
+一位部分依赖铁杆粉丝的艺术家回应并披露了他的财务状况：
+依赖铁杆粉丝的现实
 
-I report the results of my survey of artists supported by True Fans: The Case Against 1000 True Fans
-
----
-
-*文档由 KK 文档处理器生成*
+我报告了我对由铁杆粉丝支持的艺术家的调查结果：反对1000名铁杆粉丝的案例
