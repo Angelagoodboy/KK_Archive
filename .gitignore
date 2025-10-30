@@ -1,8 +1,8 @@
 # 通用 macOS 系统文件
-.DS_Store
-.AppleDouble
-.LSOverride`
-.pyc
+*.DS_Store
+*.AppleDouble
+*.LSOverride`
+*.pyc
 todolist.txt
 todolist.md
 __pycache__
