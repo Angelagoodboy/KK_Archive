@@ -8,8 +8,6 @@
 - Original URL: https://kk.org/thetechnium/you-are-not-late/
 - Chinese Version: [https://github.com/Angelagoodboy/KK_Archive/blob/main/You_Are_Not_Late_cn.md](https://github.com/Angelagoodboy/KK_Archive/blob/main/You_Are_Not_Late_cn.md)
 
-# You Are Not Late
-
 ## Early Domain Opportunities
 
 Can you imagine how awesome it would have been to be an entrepreneur in 1985 when almost any dot com name you wanted was available? All words; short ones, cool ones. All you had to do was ask for the one you wanted. It didn’t even cost anything to claim. This grand opportunity was true for years. In 1994 a Wired writer noticed that mcdonalds.com was still unclaimed, so with our encouragement he registered it, and then tried to give it to McDonalds, but their cluelessness about the internet was so hilarious it became a Wired story. Shortly before that I noticed that abc.com was not claimed so when I gave a consulting presentation to the top-floor ABC executives about the future of digital I told them that they should get their smartest geek down in the basement to register their own domain name. They didn’t.
@@ -18,7 +16,7 @@ Can you imagine how awesome it would have been to be an entrepreneur in 1985 whe
 
 The internet was a wide open frontier then. It was easy to be the first in category X. Consumers had few expectations, and the barriers were extremely low. Start a search engine! An online store! Serve up amateur videos! Of course, that was then. Looking back now it seems as if waves of settlers have since bulldozed and developed every possible venue, leaving only the most difficult and gnarly specks for today’s newcomers. Thirty years later the internet feels saturated, bloated, overstuffed with apps, platforms, devices, and more than enough content to demand our attention for the next million years. Even if you could manage to squeeze in another tiny innovation, who would notice it?
 
-## Digital Life Benefits
+## Digital Life Miracles
 
 Yet if we consider what we have gained online in the last 30 years, this abundance smells almost miraculous. We got: Instant connection with our friends and family anywhere, a customizable stream of news whenever we want it, zoomable 3D maps of most cities of the world, an encyclopedia we can query with spoken words, movies we can watch on a flat slab in our pocket, a virtual everything store that will deliver next day — to name only six out of thousands that could be mentioned.
 
@@ -34,7 +32,7 @@ And they’d be right. Because from our perspective now, the greatest online thi
 
 Because here is the other thing the greybeards in 2044 will tell you: Can you imagine how awesome it would have been to be an entrepreneur in 2014? It was a wide-open frontier! You could pick almost any category X and add some AI to it, put it on the cloud. Few devices had more than one or two sensors in them, unlike the hundreds now. Expectations and barriers were low. It was easy to be the first. And then they would sigh, “Oh, if only we realized how possible everything was back then!”
 
-## Internet's Golden Age
+## Golden Age for Innovation
 
 So, the truth: Right now, today, in 2014 is the best time to start something on the internet. There has never been a better time in the whole history of the world to invent something. There has never been a better time with more opportunities, more openings, lower barriers, higher benefit/risk ratios, better returns, greater upside, than now. Right now, this minute. This is the time that folks in the future will look back at and say, “Oh to have been alive and well back then!”
 
