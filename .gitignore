@@ -3,6 +3,7 @@
 *.AppleDouble
 *.LSOverride`
 *.pyc
+.venv
 todolist.txt
 todolist.md
 __pycache__
