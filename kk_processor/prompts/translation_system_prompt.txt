@@ -1,1 +1,1 @@
-translation_system_prompt
+kk_processor/prompts/translation_system_prompt.txt

@@ -8,39 +8,39 @@
 - Original URL: https://kk.org/thetechnium/you-are-not-late/
 - Chinese Version: [https://github.com/Angelagoodboy/KK_Archive/blob/main/You_Are_Not_Late_cn.md](https://github.com/Angelagoodboy/KK_Archive/blob/main/You_Are_Not_Late_cn.md)
 
-## Early Domain Opportunities
+## Early internet domain opportunities
 
 Can you imagine how awesome it would have been to be an entrepreneur in 1985 when almost any dot com name you wanted was available? All words; short ones, cool ones. All you had to do was ask for the one you wanted. It didn’t even cost anything to claim. This grand opportunity was true for years. In 1994 a Wired writer noticed that mcdonalds.com was still unclaimed, so with our encouragement he registered it, and then tried to give it to McDonalds, but their cluelessness about the internet was so hilarious it became a Wired story. Shortly before that I noticed that abc.com was not claimed so when I gave a consulting presentation to the top-floor ABC executives about the future of digital I told them that they should get their smartest geek down in the basement to register their own domain name. They didn’t.
 
-## Internet Evolution Challenges
+## Internet's early openness
 
 The internet was a wide open frontier then. It was easy to be the first in category X. Consumers had few expectations, and the barriers were extremely low. Start a search engine! An online store! Serve up amateur videos! Of course, that was then. Looking back now it seems as if waves of settlers have since bulldozed and developed every possible venue, leaving only the most difficult and gnarly specks for today’s newcomers. Thirty years later the internet feels saturated, bloated, overstuffed with apps, platforms, devices, and more than enough content to demand our attention for the next million years. Even if you could manage to squeeze in another tiny innovation, who would notice it?
 
-## Digital Life Miracles
+## Digital life miracles
 
 Yet if we consider what we have gained online in the last 30 years, this abundance smells almost miraculous. We got: Instant connection with our friends and family anywhere, a customizable stream of news whenever we want it, zoomable 3D maps of most cities of the world, an encyclopedia we can query with spoken words, movies we can watch on a flat slab in our pocket, a virtual everything store that will deliver next day — to name only six out of thousands that could be mentioned.
 
-## Internet's Early Dawn
+## Internet's early stage
 
 But, but…here is the thing. In terms of the internet, nothing has happened yet. The internet is still at the beginning of its beginning. If we could climb into a time machine and journey 30 years into the future, and from that vantage look back to today, we’d realize that most of the greatest products running the lives of citizens in 2044 were not invented until after 2014. People in the future will look at their holodecks, and wearable virtual reality contact lenses, and downloadable avatars, and AI interfaces, and say, oh, you didn’t really have the internet (or whatever they’ll call it) back then.
 
-## Future Digital Opportunities
+## Future innovations await
 
 And they’d be right. Because from our perspective now, the greatest online things of the first half of this century are all before us. All these miraculous inventions are waiting for that crazy, no-one-told-me-it-was-impossible visionary to start grabbing the low-hanging fruit — the equivalent of the dot com names of 1984.
 
-## Golden Age Entrepreneurship
+## Golden era for entrepreneurs
 
 Because here is the other thing the greybeards in 2044 will tell you: Can you imagine how awesome it would have been to be an entrepreneur in 2014? It was a wide-open frontier! You could pick almost any category X and add some AI to it, put it on the cloud. Few devices had more than one or two sensors in them, unlike the hundreds now. Expectations and barriers were low. It was easy to be the first. And then they would sigh, “Oh, if only we realized how possible everything was back then!”
 
-## Golden Age for Innovation
+## Best time online
 
 So, the truth: Right now, today, in 2014 is the best time to start something on the internet. There has never been a better time in the whole history of the world to invent something. There has never been a better time with more opportunities, more openings, lower barriers, higher benefit/risk ratios, better returns, greater upside, than now. Right now, this minute. This is the time that folks in the future will look back at and say, “Oh to have been alive and well back then!”
 
-## Future Innovation Horizon
+## Foundation for future innovation
 
 The last 30 years has created a marvelous starting point, a solid platform to build truly great things. However the coolest stuff has not been invented yet — although this new greatness will not be more of the same-same that exists today. It will not be merely “better,” it will different, beyond, and other. But you knew that.
 
-## The Modern Frontier
+## Best time to begin
 
 What you may not have realized is that today truly is a wide open frontier. It is the best time EVER in human history to begin.
 
